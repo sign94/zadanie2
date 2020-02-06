@@ -1,0 +1,3 @@
+npm test:html 
+npm build
+npm init-project 
